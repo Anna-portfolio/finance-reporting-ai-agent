@@ -1,0 +1,78 @@
+# Power Automate Integration (Conceptual)
+
+## Overview
+
+This document describes how the Finance Reporting AI Agent can be extended with Power Automate to enable real business actions.
+
+The agent is not limited to answering questions - it can also trigger workflows based on user intent.
+
+---
+
+## Example Use Cases
+
+### 1. Send Financial Report
+
+**User request:**
+"Send me the weekly financial report"
+
+**Flow:**
+
+1. Agent detects intent (report request)
+2. Power Automate flow is triggered
+3. Data is retrieved (Excel / database)
+4. Report is generated
+5. Email is sent via Outlook
+
+---
+
+### 2. Cost Alert Notification
+
+**Scenario:**
+Unusual increase in department costs
+
+**Flow:**
+
+1. Scheduled flow runs daily/weekly
+2. Data is analyzed (threshold or anomaly detection)
+3. If condition is met:
+
+   * Notification is sent (Teams / Email)
+
+---
+
+### 3. Save Generated Summary
+
+**User request:**
+"Save this summary"
+
+**Flow:**
+
+1. Agent generates summary
+2. Power Automate stores it in:
+
+   * SharePoint
+   * OneDrive
+   * Database
+
+---
+
+## 🔹 Integration Pattern
+
+```
+User → Copilot Agent → Intent Detection → Power Automate Flow → Action → Response
+```
+
+---
+
+## 🔹 Key Benefits
+
+* Reduces manual reporting effort
+* Enables proactive monitoring
+* Connects AI insights with real business actions
+* Improves process efficiency
+
+---
+
+## 🔹 Notes
+
+This is a conceptual design showing how AI agents and automation workflows can work together within the Microsoft ecosystem.
