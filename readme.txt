@@ -91,7 +91,7 @@ The agent is guided by structured system instructions that ensure:
 
 ## Automation (Power Automate)
 
-Example workflows include:
+Workflows include:
 
 * Sending weekly financial reports via email
 * Triggering alerts for unusual cost patterns
