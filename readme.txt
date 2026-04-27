@@ -1,12 +1,12 @@
 # Finance Reporting AI Agent
 
-/finance-reporting-ai-agent<br>
- ├── README.txt<br>
- ├── sample_data.xlsx<br>
- ├── prompts/<br>
- │    └── system_prompt.txt<br>
- ├── flows/<br>
- │    └── power_automate_description.txt<br><br>
+/finance-reporting-ai-agent
+ ├── README.txt
+ ├── sample_data.xlsx
+ ├── prompts/
+ │    └── system_prompt.txt
+ ├── flows/
+ │    └── power_automate_description.txt
 
 ## Overview
 
