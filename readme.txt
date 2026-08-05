@@ -10,7 +10,7 @@
 
 ## Overview
 
-This project presents a conceptual AI agent for financial and operational reporting built using Microsoft Copilot Studio, Power Platform, and Python-based data processing.
+This project presents a Microsoft Copilot Finance Reporting AI Agent for financial and operational reporting built using Microsoft Copilot Studio, Power Platform, and Python-based data processing.
 
 The agent enables business users to query financial data in natural language and receive structured answers enriched with business insights.
 
@@ -102,9 +102,3 @@ Workflows include:
 ## Project Goal
 
 This project demonstrates how AI, automation, and data integration can be combined to support business decision-making and process optimization.
-
----
-
-## Notes
-
-This is a conceptual demo project created for demonstration purposes.
