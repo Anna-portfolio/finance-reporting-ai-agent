@@ -1,4 +1,4 @@
-# Finance Reporting AI Agent
+# Microsoft Copilot Finance Reporting AI Agent
 
 /finance-reporting-ai-agent
  ├── README.txt
